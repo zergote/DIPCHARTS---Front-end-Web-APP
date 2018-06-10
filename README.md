@@ -18,6 +18,7 @@ Web application created with the React.js library and its ecosystem. The web app
 - Date selection
 - and others
 
+## How to Use
 ```
 # Clone this repository
 $ git clone https://github.com/zergote/DIPCHARTS-Front-end-Web-APP
