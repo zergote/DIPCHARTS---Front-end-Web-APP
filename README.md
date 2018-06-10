@@ -17,3 +17,17 @@ Web application created with the React.js library and its ecosystem. The web app
 - Navigator by element tree
 - Date selection
 - and others
+
+```
+# Clone this repository
+$ git clone https://github.com/zergote/DIPCHARTS-Front-end-Web-APP
+
+# Go into the repository
+$ cd DIPCHARTS-Front-end-Web-APP
+
+# Install dependencies
+$ yarn install
+
+# Run the app
+$ yarn start
+```
